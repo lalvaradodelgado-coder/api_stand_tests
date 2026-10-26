@@ -7,3 +7,4 @@ Proyecto de pruebas automatizadas para API.
 - `data.py` — datos de prueba
 - `sender_stand_request.py` — solicitudes a la API
 - `create_user_test.py` — casos de prueba
+- hola
